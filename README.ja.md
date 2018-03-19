@@ -2,6 +2,8 @@
 
 現在のレイヤーとそのサブレイヤーの名前を置換するためのスクリプトです。
 
+[You can read this README in English here](https://github.com/kawmra/rename-layers/blob/master/README.ja.md)
+
 # 使い方
 
 ## ダウンロード

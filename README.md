@@ -2,6 +2,8 @@
 
 This script renames current layer and its sub layers recursively.
 
+[この README の日本語版はこちらで読めます](https://github.com/kawmra/rename-layers/blob/master/README.ja.md)
+
 # How to use
 
 ## Downlaod
