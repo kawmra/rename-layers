@@ -4,6 +4,10 @@
 
 # 使い方
 
+## ダウンロード
+
+このレポジトリをクローンするか、 [ZIP ファイルとしてダウンロード](https://github.com/kawmra/rename-layers/archive/master.zip) します。
+
 ## インストールと実行
 
 このスクリプトを Illustrator にインストールして、名前を変更したいレイヤーを選択した状態でこのスクリプトを実行します。
