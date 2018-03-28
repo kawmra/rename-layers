@@ -8,7 +8,7 @@ This script renames current layer and its sub layers recursively.
 
 ## Downlaod
 
-Close this repository or [download as a zip](https://github.com/kawmra/rename-layers/archive/master.zip).
+Clone this repository or [download as a zip](https://github.com/kawmra/rename-layers/archive/master.zip).
 
 ## Install and run
 
